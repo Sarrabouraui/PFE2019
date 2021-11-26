@@ -1,0 +1,14 @@
+
+.container{
+    height:620px;
+}
+
+.container td{
+    width: 200px;
+}
+ #btnAdd{
+     margin-top: 50px;
+ }
+ #tab{
+     width:1000px;
+ }

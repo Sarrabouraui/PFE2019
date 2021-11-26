@@ -1,0 +1,27 @@
+.body{
+    width: 100%;
+    height: 100%;
+}
+
+.carousel{
+    position: relative;
+    background-color: rgb(81, 94, 207);
+    width: 100%;
+    height: 100%;
+}
+#t{
+    width: 700px;
+}
+#cont{
+    width: 500px;
+    position: relative;
+    float: left;
+}
+#tt{
+    height: 500px;
+    padding: 50px;
+    margin: 50px;
+    position: relative;
+    float: right;
+}
+
